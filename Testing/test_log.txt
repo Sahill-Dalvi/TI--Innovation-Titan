@@ -1,0 +1,6 @@
+2023-11-28 15:49:40 - Test 2 (Jobseeker Invalid Email): Passed
+2023-11-28 15:49:57 - Test 2 (Jobseeker Invalid Email): Passed
+2023-11-28 15:50:07 - Test 3 (Valid Jobseeker): Passed
+2023-11-28 15:50:24 - Test 4 (Employer Invalid Email): Passed
+2023-11-28 15:50:36 - Test 5 (Valid Employer): Passed
+2023-11-28 15:50:52 - Test 4 (Employer Invalid Email): Passed

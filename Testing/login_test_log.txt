@@ -1,0 +1,4 @@
+2023-11-28 18:11:32 - Test 1 (Login invalid): Passed
+2023-11-28 18:11:45 - Test 2 (Login valid): Passed
+2023-11-28 18:33:07 - Test 1 (Login invalid): Passed
+2023-11-28 18:33:21 - Test 2 (Login valid): Passed
